@@ -1,0 +1,8 @@
+
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo" actionBarHidden="true" class="splash">    
+    <ActionBar title="My App" icon="" ></ActionBar>
+    
+        <GridLayout id="grid" rows="" columns="">
+        </GridLayout>
+    
+</Page>
